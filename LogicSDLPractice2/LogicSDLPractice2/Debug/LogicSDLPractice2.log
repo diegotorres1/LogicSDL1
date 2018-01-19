@@ -1,0 +1,4 @@
+﻿  LogicMain.cpp
+c:\users\administrator\desktop\open gl\logicsdlpractice2\logicsdlpractice2\logicmain.cpp(502): warning C4101: 'direction': unreferenced local variable
+c:\users\administrator\desktop\open gl\logicsdlpractice2\logicsdlpractice2\logicmain.cpp(168): warning C4715: 'processTileInformation': not all control paths return a value
+  LogicSDLPractice2.vcxproj -> C:\Users\Administrator\Desktop\Open Gl\LogicSDLPractice2\Debug\LogicSDLPractice2.exe
